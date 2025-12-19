@@ -288,7 +288,7 @@ final class ModelCatalog extends AbstractModelCatalog
                     Capability::OUTPUT_TEXT,
                 ],
             ],
-            'global.anthropic.claude-opus-4-5-20251101' => [
+            'claude-opus-4-5-20251101' => [
                 'class' => Claude::class,
                 'capabilities' => [
                     Capability::INPUT_MESSAGES,
